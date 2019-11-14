@@ -1,16 +1,9 @@
-# sun meishi
-
-![sun meishi](https://i.imgur.com/4IJk04T.jpg)
+# meishi808
 
 ## これは
 
-Kailh Sun Switchを使用した名刺サイズのマクロパッドです。
-ロータリーエンコーダもLEDが入っているのでカラフルに光ります。
+恐れ多くも遊舎工房のファクトリーヘッドの[ないんさんの名刺](https://github.com/MakotoKurauchi/sunmeishi)をフォークしてきました。  
+ISSIのLEDドライバを使ったキーボードになる予定です。
 
-## 課題
+本家よりは作者の主張を控えめにしたい所存。
 
-現状でも動作には問題ありませんが、LEDドライバをISSIのデバイスに変えたいと思っています。
-
-## Data
-* [Firmware](https://github.com/MakotoKurauchi/qmk_firmware/tree/sunmeishi/keyboards/sunmeishi)
-* [PCB Data](/PCB)
